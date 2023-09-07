@@ -1,4 +1,4 @@
-This contains a list of speech processing research groups in universities. It is by no means an exhaustive list, and it is not ordered by any criteria. Create a pull request to add new entries.
+This contains a list of speech processing research groups in universities around the world. It is by no means an exhaustive list, and it is not ordered by any criteria. Create a pull request to add new entries.
 
 Last updated: Sept 2023
 
