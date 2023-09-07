@@ -31,6 +31,11 @@ Last updated: Sept 2023
 | SPAN | University of Southern California | https://sail.usc.edu/span/ | - |
 | - | University of California, Berkeley | http://people.eecs.berkeley.edu/~gopala | - |
 | SCL | University of Maryland – College Park | https://scl.umd.edu/ | - |
+| Prosody & Speech Dynamics Lab | Northwestern University | https://www.prosodylab.linguistics.northwestern.edu/ | speech production, perception |
+| MARL | New York University | https://steinhardt.nyu.edu/marl | - |
+| SALT Lab | UT Austin | https://saltlab.cs.utexas.edu/ | - |
+| CRSS | UT Dallas | https://crss.utdallas.edu/ | - |
+| MSP Lab | UT Dallas | https://ecs.utdallas.edu/research/researchlabs/msp-lab/ | - |
 
 <br>
 
@@ -51,5 +56,18 @@ Last updated: Sept 2023
 | CSTR | University of Edinburgh | UK | https://www.cstr.ed.ac.uk/ | - |
 | TMH | KTH Royal Institute of Technology | Sweden | https://www.kth.se/is/tmh/ | - |
 | Speech@FIT | Brno University of Technology | Czechia | https://speech.fit.vutbr.cz/ |  - |
+| Speech and audio processing | Idiap Research Institute | Switzerland | https://www.idiap.ch/data-group/1 | - |
+| Speech Interaction Technology | Aalto University | Finland | https://research.aalto.fi/en/organisations/speech-interaction-technology | - |
+| Speech Research Group | University of Cambridge | UK | http://mi.eng.cam.ac.uk/Main/Speech/WebHome | - |
+| Spoken Language Systems | Saarland University | Germany | https://www.lsv.uni-saarland.de/ | - |
+| Centre for Language and Speech Technology | Radboud University | The Netherlands | https://www.ru.nl/en/cls/clst | - |
+| The Hearing Technology Lab | Ghent University | Belgium | https://www.waves.intec.ugent.be/hearing-technology | - |
+| PSI | KU Leuven | Belgium | https://www.esat.kuleuven.be/psi | - |
 
+<br>
 
+# Africa
+
+| Group name | College name | country | website | research areas |
+|---|---|---|---|---|
+| - | Stellenbosch University | South Africa | https://www.kamperh.com/ | - |
